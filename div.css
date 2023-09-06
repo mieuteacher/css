@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+.divCss {
+    width: 100px;
+    height: 100px;
+}
+
+.divCss.div1 {
+    background-color: red;
+    /* margin: 50px 25px 30px 25px; */
+    /* margin: 25px 30px 100px; */
+    /* margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 300px; */
+}
+
+.divCss.div2 {
+    box-sizing: border-box;
+    background-color: blue;
+    color: white;
+    font-weight: 900;
+    padding: 15px;
+}
+
+.divCss.div3 {
+    box-sizing: border-box;
+    background-color: green;
+    border: 5px solid red;
+    border-radius: 10px;
+}

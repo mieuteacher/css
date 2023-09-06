@@ -1,0 +1,74 @@
+/* tag name */
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+} */
+/* font-size: 16px; */
+/* class name */
+.div1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+/* id name */
+#div1 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+/*
+    px
+    pt
+    em
+    rem
+    %
+ */
+ .div01 {
+    font-size: 50px;
+    word-spacing: 1em;
+ }
+
+.helloText {
+   color: rgb(189, 55, 164);
+   font-size: 16px;
+   word-spacing: 1.25em;
+}
+.helloText1 {
+    color: rgb(189, 55, 164);
+    word-spacing: 20px;
+    font-size: 16px;
+    text-align: center;
+ }
+
+ .textAlign {
+    text-align: center;
+    text-transform: lowercase;
+    text-decoration: underline;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    user-select: none;
+ }
+ .aaa {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    position: relative;
+ }
+ .bbb {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(16, 235, 78, 0.5);
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+ }
+ .ccc {
+    width: 100px;
+    height: 100px;
+    background-image: url("https://cdn3.dhht.vn/wp-content/uploads/2023/01/30-giong-meo-noi-tieng-dep-nhat-cute-de-nuoi-va-gia-ban-bia.jpg");
+    background-size: cover;
+}
